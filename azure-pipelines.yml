@@ -2,7 +2,7 @@ trigger:
 - none
 
 pool:
-  vmImage: 'latest'
+  vmImage: 'Ubuntu-16.04'
 
 variables:
   imageName: 'dvwa'
